@@ -2,8 +2,8 @@
 PDF TOOLKIT – By Fong 💼
 ==============================
 
--📁 This app works with PDFs completely offline. 
--✅ No need to install Python or internet connection.
+- 📁 This app works with PDFs completely offline. 
+- ✅ No need to install Python or internet connection.
 
 When you run the app, it will auto-create:
 - /input
