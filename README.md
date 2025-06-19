@@ -58,15 +58,15 @@ All processed files will be saved in the /output folder.
 ------------------------------
 📦 OUTPUT LOCATION
 ------------------------------
-✅ All files are saved in the /output folder
-📂 Make sure to check it after every action
+- ✅ All files are saved in the /output folder
+- 📂 Make sure to check it after every action
 
 ------------------------------
 🔐 SECURITY NOTICE
 ------------------------------
--✅ This app works 100% offline.
--✅ No files are ever uploaded or sent anywhere.
--✅ Everything stays on your computer.
+- ✅ This app works 100% offline.
+- ✅ No files are ever uploaded or sent anywhere.
+- ✅ Everything stays on your computer.
 
 You can safely use it with:
 - Private contracts
