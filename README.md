@@ -2,8 +2,8 @@
 PDF TOOLKIT – By Fong 💼
 ==============================
 
-📁 This app works with PDFs completely offline. 
-✅ No need to install Python or internet connection.
+-📁 This app works with PDFs completely offline. 
+-✅ No need to install Python or internet connection.
 
 When you run the app, it will auto-create:
 - /input
@@ -64,9 +64,9 @@ All processed files will be saved in the /output folder.
 ------------------------------
 🔐 SECURITY NOTICE
 ------------------------------
-✅ This app works 100% offline.
-✅ No files are ever uploaded or sent anywhere.
-✅ Everything stays on your computer.
+-✅ This app works 100% offline.
+-✅ No files are ever uploaded or sent anywhere.
+-✅ Everything stays on your computer.
 
 You can safely use it with:
 - Private contracts
@@ -79,7 +79,7 @@ As long as your PC is safe, your PDFs are safe too.
 ------------------------------
 🎉 ENJOY & SHARE
 ------------------------------
-Made with 💚 by Fong
-No internet required. Just click and go!
+- Made with 💚 by Fong
+- No internet required. Just click and go!
 
 ==============================
